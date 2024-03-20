@@ -43,32 +43,32 @@ $mahasiswa = [
         "gambar" => "faizal.jpg"
     ],
     [
-        "nama" => "Nada Putri Aqilah Rukanda",
-        "nrp" => "233040038",
-        "email" => "putriaqilah05@gmail.com",
-        "jurusan" => "Teknik Informatika",
-        "gambar" => "nada.jpg"
+        "nama" => "Lisna Nurhaliza",
+        "nrp" => "233010053",
+        "email" => "lisnanrhlz2@gmail.com",
+        "jurusan" => "Teknik Industri",
+        "gambar" => "lisna.jpg"
     ],
     [
-        "nama" => "Nada Putri Aqilah Rukanda",
-        "nrp" => "233040038",
-        "email" => "putriaqilah05@gmail.com",
-        "jurusan" => "Teknik Informatika",
-        "gambar" => "nada.jpg"
+        "nama" => "Andien Anastasya Salsabilla",
+        "nrp" => "233020038",
+        "email" => "andien.anastasya.aa@gmail.com",
+        "jurusan" => "Teknologi Pangan",
+        "gambar" => "andien.jpg"
     ],
     [
-        "nama" => "Nada Putri Aqilah Rukanda",
-        "nrp" => "233040038",
-        "email" => "putriaqilah05@gmail.com",
-        "jurusan" => "Teknik Informatika",
-        "gambar" => "nada.jpg"
+        "nama" => "Tazqia Nasywa Nabilah",
+        "nrp" => "23060137",
+        "email" => "tazqianaswa1@gmail.com",
+        "jurusan" => "PGSD",
+        "gambar" => "tazqia.jpg"
     ],
     [
-        "nama" => "Nada Putri Aqilah Rukanda",
-        "nrp" => "233040038",
-        "email" => "putriaqilah05@gmail.com",
-        "jurusan" => "Teknik Informatika",
-        "gambar" => "nada.jpg"
+        "nama" => "Gina Amallia",
+        "nrp" => "1223B0015",
+        "email" => "amalliag03@gmail.com",
+        "jurusan" => "Keperawatan",
+        "gambar" => "gina.jpg"
     ]
 ];
 
